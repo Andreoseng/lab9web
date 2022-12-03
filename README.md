@@ -50,4 +50,4 @@ Tampilan Tambah Data Barang
 ![Step18](SS/SS5.png)<br>
 
 <b>KEMUDIAN REFRESH DAN HASILNYA
-![Step18](SS/SS5.png)<br>
+![Step18](SS/SS13.png)<br>
