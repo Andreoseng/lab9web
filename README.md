@@ -8,14 +8,11 @@
 Buka XAMPP Control Lalu Klik `Start` untuk menjalankan MySQL Server. Pastikan web server Apache dan MySQL Server sudah dijalankan.
 ![Step1](SS/SS2.png)<br>
 
-Membuat Folder `lab9_php_modular` pada root directory web server (d:\xampp\htdocs)
-![Step2](SS/SS1.png)<br>
-
 Setelah itu uji coba gunakan URL :
 ```
 http://localhost/lab9_php_modular/
 ```
-![Step3](SS/SS3.png)<br>
+![Step3](SS/SS1.png)<br>
 
 <b>Praktikum</b>
 
@@ -52,3 +49,5 @@ Tampilan Home
 Tampilan Tambah Data Barang
 ![Step18](SS/SS5.png)<br>
 
+<b>KEMUDIAN REFRESH DAN HASILNYA
+![Step18](SS/SS5.png)<br>
